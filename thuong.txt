@@ -1,0 +1,4 @@
+clear
+echo "CT thuong hai so"
+c=$(($1/$2))
+echo "kq:$1/$2=$c"
